@@ -3,5 +3,9 @@
   <groupId>upes.ac.in</groupId>
   <artifactId>labtestCICD</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+<maven.compiler.source>1.8</maven.compiler.source>
+<maven.compiler.target>1.8</maven.compiler.target>
+</properties>
   <name>CICD_LAB_TEST</name>
 </project>
